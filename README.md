@@ -51,3 +51,8 @@ The core of this project lies in AI:
 
 ---
 
+## 🎥 Demo Video  
+
+You can watch the demo video here:  
+[▶️ Watch Demo](./Demo.mp4)
+
