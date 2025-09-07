@@ -53,6 +53,8 @@ The core of this project lies in AI:
 
 ## 🎥 Demo Video  
 
-You can watch the demo video here:  
-[▶️ Watch Demo](./Demo.mp4)
+<video src="./Demo.mp4" controls width="700">
+  Your browser does not support the video tag.
+</video>
+
 
