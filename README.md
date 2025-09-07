@@ -53,8 +53,8 @@ The core of this project lies in AI:
 
 ## 🎥 Demo Video  
 
-<video src="./Demo.mp4" controls width="700">
-  Your browser does not support the video tag.
-</video>
+[![Watch the Demo](https://img.icons8.com/ios-filled/452/video.png)](https://drive.google.com/file/d/1WgDQMep9gl6wqhAD4vTD4rPyZlRg9_jl/view?usp=sharing)
+
+Click the image above to watch the full demo video.
 
 
